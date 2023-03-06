@@ -1,8 +1,6 @@
 
 a = 4
-if a == 4:
-    print('good')
-else:
-    print('not good')
+for i in range(a):
+    print(i)
 
 print('very very good')
