@@ -1,3 +1,5 @@
 
-for i in range(123):
-    print(i + 5)
+for i in range(122):
+    print(i + 6)
+for c in 'ifuiewhufeu':
+    print(c)
