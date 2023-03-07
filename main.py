@@ -1,6 +1,6 @@
 
 a = 5
-if a == 4:
-    print('4')
+if a == 5:
+    print('5')
 else:
-    print('not 4')
+    print('not 5')
