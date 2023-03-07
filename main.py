@@ -1,4 +1,6 @@
 
 a = 5
-for i in range(a):
-    print('gg')
+if 4 != a:
+    print('oh no')
+elif 5 != 4:
+    print('sup')
