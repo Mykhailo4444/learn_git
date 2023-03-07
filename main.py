@@ -1,6 +1,3 @@
 
-a = 5
-if a == 5:
-    print('5')
-else:
-    print('not 5')
+for i in range(123):
+    print(i + 5)
