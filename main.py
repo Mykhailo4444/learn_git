@@ -1,6 +1,5 @@
 
 a = 5
-if 4 != a:
-    print('oh no')
-elif 5 != 4:
-    print('sup')
+for i in range(100):
+    for j in range(a):
+        print("alllomewn")
